@@ -10,12 +10,12 @@ My goal is to keep growing as a backend engineer by building reliable systems an
 
 ## 🚀 About me
 
-* 💻 Java Backend Developer with strong experience in enterprise systems
-* 🔗 Experience with REST APIs, SQL databases, ERP integrations, and business process automation
-* ☁️ Studying and building projects with Spring Boot, microservices, Docker, AWS, and cloud architecture
-* 🧩 Experience with Angular, TypeScript, and Ionic for frontend/mobile applications
-* 📚 Currently improving my English to better follow technical content, documentation, and software engineering discussions
-* 🚀 Focused on continuous learning, clean code, backend architecture, and cloud-ready applications
+- 💻 Java Backend Developer with strong experience in enterprise systems
+- 🔗 Experience with REST APIs, SQL databases, ERP integrations, and business process automation
+- ☁️ Studying and building projects with Spring Boot, microservices, Docker, AWS, and cloud architecture
+- 🧩 Experience with Angular, TypeScript, and Ionic for frontend/mobile applications
+- 📚 Currently improving my English to better follow technical content, documentation, and software engineering discussions
+- 🚀 Focused on continuous learning, clean code, backend architecture, and cloud-ready applications
 
 ---
 
@@ -57,17 +57,17 @@ Repository: [ardenghe-food-api](https://github.com/ardenghe/ardenghe-food-api)
 
 I'm currently working on improving my portfolio with projects focused on:
 
-* Java and Spring Boot best practices
-* Microservices architecture
-* Authentication and authorization with JWT
-* Dockerized applications
-* AWS integrations
-* Automated tests
-* Clean architecture
+- Java and Spring Boot best practices
+- Microservices architecture
+- Authentication and authorization with JWT
+- Dockerized applications
+- AWS integrations
+- Automated tests
+- Clean architecture
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [github.com/ardenghe](https://github.com/ardenghe)
-* LinkedIn: [linkedin.com/in/giovanni-ardenghe](https://www.linkedin.com/in/giovanni-ardenghe/)
+- GitHub: [github.com/ardenghe](https://github.com/ardenghe)
+- LinkedIn: [linkedin.com/in/giovanni-ardenghe](https://www.linkedin.com/in/giovanni-ardenghe/)
